@@ -12,4 +12,4 @@ This project is a Flutter application for practicing API integration and UI deve
 - RESTful API integration
 - Clean and responsive UI
 
-![image alt](https://github.com/Omarelbarody/news_app_FlutterApp/blob/33a5cdbd78e9115b6adab78411b7a524c7d1eb1e/App.jpeg)
+![image alt](https://github.com/Omarelbarody/news_app_FlutterApp/blob/db36f0dafd3796d49549c5cc05953f33082cb571/App.jpg)
