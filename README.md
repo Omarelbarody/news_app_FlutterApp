@@ -11,3 +11,5 @@ This project is a Flutter application for practicing API integration and UI deve
 - General news on the home screen
 - RESTful API integration
 - Clean and responsive UI
+
+![image alt](https://github.com/Omarelbarody/news_app_FlutterApp/blob/992770aeba6246c0cc89689d5c5c1f018cc76c53/homePage.jpeg)
