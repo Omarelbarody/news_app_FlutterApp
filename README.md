@@ -1,4 +1,4 @@
-# news_app
+# News_App
 
 A Flutter mobile application that displays real-time news articles using a News API, with category-based browsing (Business, Sports, etc.) and general news shown on the home screen.
 
